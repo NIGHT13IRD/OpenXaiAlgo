@@ -1,0 +1,12 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.user
+
+# .NET
+*.log
