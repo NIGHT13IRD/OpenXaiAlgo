@@ -46,8 +46,6 @@ Traditional trading bots often couple strategy logic with underlying execution l
 - **Prometheus Integration**: Natively exports `/metrics` for direct integration with Grafana monitoring dashboards.
 - **Hot Reload Configuration**: Supports runtime parameter modification (Capital, StopLoss, etc.) without restarting.
 
-- **Hot Reload Configuration**: Supports runtime parameter modification (Capital, StopLoss, etc.) without restarting.
-
 ### 🗺️ Roadmap / Todo
 
 #### 🏗️ Core & Stability
@@ -194,8 +192,6 @@ If this project helped you, consider buying me a coffee!
 #### 📡 运维管理
 - **HTTP 管理 API**: 标准 REST 接口，用于监控状态、重置风控和启动/停止资产。
 - **Prometheus 集成**: 原生导出 `/metrics`，可直接集成 Grafana 监控仪表板。
-- **热重载配置**: 支持运行时修改参数（资金、止损等），无需重启。
-
 - **热重载配置**: 支持运行时修改参数（资金、止损等），无需重启。
 
 ### 🗺️ 路线图 / 待办事项
